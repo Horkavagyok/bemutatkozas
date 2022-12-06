@@ -1,0 +1,25 @@
+table{
+    border: 3px solid black;
+    font-size: large;
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:justify;
+}
+td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+th{
+    border: 3px solid black;
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+body{
+    font-size: large;
+    letter-spacing: 0,5px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: powderblue;
+}

@@ -1,0 +1,16 @@
+body{
+    font-size: large;
+    letter-spacing: 0,5px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: powderblue;
+    
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
